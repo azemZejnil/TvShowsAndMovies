@@ -24,3 +24,4 @@ For some reason, I couldn't filter out searched tvshows with RxJava2 filter func
 <br>
 Also, there are some irregularities in getting response by searching for a content.
 However, it is due to API: if you try to make a call in your browser, you get same results
+
