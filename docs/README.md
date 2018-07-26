@@ -22,6 +22,6 @@ I used RxJava2, Dagger2, MVP pattern
 <br>
 For some reason, I couldn't filter out searched tvshows with RxJava2 filter function, I was getting an error.
 <br>
-Also, there are some irregularities in getting response by searching for a content.
+Also, there are some irregularities in getting response by searching for a content in the search screen.
 However, it is due to API: if you try to make a call in your browser, you get same results
 
